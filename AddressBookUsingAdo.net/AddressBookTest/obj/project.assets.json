@@ -6213,11 +6213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#program\\AddressBookUsingAdo.net\\AddressBookTest\\AddressBookTest.csproj",
+      "projectUniqueName": "D:\\C#program\\AddressBookUsingAdo\\AddressBookUsingAdo.net\\AddressBookTest\\AddressBookTest.csproj",
       "projectName": "AddressBookTest",
-      "projectPath": "D:\\C#program\\AddressBookUsingAdo.net\\AddressBookTest\\AddressBookTest.csproj",
+      "projectPath": "D:\\C#program\\AddressBookUsingAdo\\AddressBookUsingAdo.net\\AddressBookTest\\AddressBookTest.csproj",
       "packagesPath": "C:\\Users\\pooja\\.nuget\\packages\\",
-      "outputPath": "D:\\C#program\\AddressBookUsingAdo.net\\AddressBookTest\\obj\\",
+      "outputPath": "D:\\C#program\\AddressBookUsingAdo\\AddressBookUsingAdo.net\\AddressBookTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pooja\\AppData\\Roaming\\NuGet\\NuGet.Config",
